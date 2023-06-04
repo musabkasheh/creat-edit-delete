@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{B2BCCB14-0D8A-41F3-9E4C-335380294BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "busnisslayer", "busnisslayer\busnisslayer.csproj", "{3C1249C8-F349-4AA7-8CCC-541CA49C3024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BCCB14-0D8A-41F3-9E4C-335380294BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BCCB14-0D8A-41F3-9E4C-335380294BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BCCB14-0D8A-41F3-9E4C-335380294BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BCCB14-0D8A-41F3-9E4C-335380294BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1249C8-F349-4AA7-8CCC-541CA49C3024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1249C8-F349-4AA7-8CCC-541CA49C3024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1249C8-F349-4AA7-8CCC-541CA49C3024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1249C8-F349-4AA7-8CCC-541CA49C3024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57DFAEF-B46C-4704-A99C-8A083F635529}
+	EndGlobalSection
+EndGlobal
